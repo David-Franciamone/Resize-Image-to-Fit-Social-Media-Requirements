@@ -5,13 +5,6 @@ Project Description: This tool allows easy conversion of images into the sizes p
 
 
 
-![Picture of the interface]([https://github.com/David-Franciamone/Useful-for-chat-prompts-Combine-the-contents-of-all-files-into-one.-/blob/main/Screenshot%202023-12-19%20204656.png](https://github.com/David-Franciamone/Resize-Image-to-Fit-Social-Media-Requirements/blob/main/Choose%20size%20of%20image%20to%20create.png)](https://raw.githubusercontent.com/David-Franciamone/Resize-Image-to-Fit-Social-Media-Requirements/main/Choose%20size%20of%20image%20to%20create.png))
-
-![Choose the image to process]([https://github.com/David-Franciamone/Useful-for-chat-prompts-Combine-the-contents-of-all-files-into-one.-/blob/main/Screenshot%202023-12-19%20204656.png](https://github.com/David-Franciamone/Resize-Image-to-Fit-Social-Media-Requirements/blob/main/choose%20image.png)](https://raw.githubusercontent.com/David-Franciamone/Resize-Image-to-Fit-Social-Media-Requirements/main/choose%20image.png))
-
-![Choose the fill-in color]([https://github.com/David-Franciamone/Useful-for-chat-prompts-Combine-the-contents-of-all-files-into-one.-/blob/main/Screenshot%202023-12-19%20204656.png](https://github.com/David-Franciamone/Resize-Image-to-Fit-Social-Media-Requirements/blob/main/choose%20color.png)](https://raw.githubusercontent.com/David-Franciamone/Resize-Image-to-Fit-Social-Media-Requirements/main/choose%20color.png))
-
-
 Installation: 
 	1) Keep the contents of this folder as is (e.g. do not change or move the ‘_internal’ folder).  
 	2) To open the program, open the file with the “.exe” extension.
